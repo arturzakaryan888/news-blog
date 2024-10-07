@@ -1,0 +1,1 @@
+export const DEFAULT_NEWS_IMAGE_URL = '/images/default-news-image.png'
